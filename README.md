@@ -2,15 +2,21 @@
 
 This repository contains the code for __*Generating Diverse and Meaningful Captions: Unsupervised Specificity Optimization for Image Captioning (Lindh et al., 2018)*__ to appear in *Artificial Neural Networks and Machine Learning - ICANN 2018*.
 
-A detailed description of the work, including test results, can be found in our paper. Please consider citing if you use the code:
+A detailed description of the work, including test results, can be found in our paper: [[publisher version]](https://doi.org/10.1007/978-3-030-01418-6_18) [[author version]](https://arrow.dit.ie/airccon/13/)
 
-    @incollection{lindh_generating_2018,
-	    title = {Generating {Diverse} and {Meaningful} {Captions}: {Unsupervised} {Specificity} {Optimization} for {Image} {Captioning}},
-	    booktitle = {Artificial {Neural} {Networks} and {Machine} {Learning} - {ICANN} 2018},
-	    publisher = {Springer},
-	    author = {Lindh, Annika and Ross, Robert J. and Mahalunkar, Abhijit and Salton, Giancarlo and Kelleher, John D.},
-	    year = {2018}
-    }
+Please consider citing if you use the code:
+
+ 	@inproceedings{lindh_generating_2018,
+	series = {Theoretical {Computer} {Science} and {General} {Issues}},
+	title = {Generating {Diverse} and {Meaningful} {Captions}: {Unsupervised} {Specificity} {Optimization} for {Image} {Captioning}},
+	volume = {1},
+	isbn = {978-3-030-01417-9},
+	doi = {https://doi.org/10.1007/978-3-030-01418-6_18},
+	booktitle = {Artificial {Neural} {Networks} and {Machine} {Learning} – {ICANN} 2018: 27th {International} {Conference} on {Artificial} {Neural} {Networks}, {Rhodes}, {Greece}, {October} 4-7, 2018, {Proceedings}, {Part} {I}},
+	publisher = {Springer International Publishing},
+	author = {Lindh, Annika and Ross, Robert J. and Mahalunkar, Abhijit and Salton, Giancarlo and Kelleher, John D.},
+	year = {2018}
+	}
 
 The code in this repository builds on the code from the following two repositories:
 https://github.com/ruotianluo/ImageCaptioning.pytorch  
