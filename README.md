@@ -9,7 +9,6 @@ Please consider citing if you use the code:
  	@inproceedings{lindh_generating_2018,
 	series = {Theoretical {Computer} {Science} and {General} {Issues}},
 	title = {Generating {Diverse} and {Meaningful} {Captions}: {Unsupervised} {Specificity} {Optimization} for {Image} {Captioning}},
-	volume = {1},
 	isbn = {978-3-030-01417-9},
 	doi = {https://doi.org/10.1007/978-3-030-01418-6_18},
 	booktitle = {Artificial {Neural} {Networks} and {Machine} {Learning} – {ICANN} 2018: 27th {International} {Conference} on {Artificial} {Neural} {Networks}, {Rhodes}, {Greece}, {October} 4-7, 2018, {Proceedings}, {Part} {I}},
