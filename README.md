@@ -5,16 +5,20 @@ This repository contains the code for __*Generating Diverse and Meaningful Capti
 A detailed description of the work, including test results, can be found in our paper: [[publisher version]](https://doi.org/10.1007/978-3-030-01418-6_18) [[author version]](https://arrow.dit.ie/airccon/13/)
 
 Please consider citing if you use the code:
-
- 	@inproceedings{lindh_generating_2018,
-	series = {Theoretical {Computer} {Science} and {General} {Issues}},
-	title = {Generating {Diverse} and {Meaningful} {Captions}: {Unsupervised} {Specificity} {Optimization} for {Image} {Captioning}},
-	isbn = {978-3-030-01417-9},
-	doi = {https://doi.org/10.1007/978-3-030-01418-6_18},
-	booktitle = {Artificial {Neural} {Networks} and {Machine} {Learning} – {ICANN} 2018: 27th {International} {Conference} on {Artificial} {Neural} {Networks}, {Rhodes}, {Greece}, {October} 4-7, 2018, {Proceedings}, {Part} {I}},
+ 	
+	@inproceedings{lindh_generating_2018,
+	series = {Lecture {Notes} in {Computer} {Science}},
+	title = {Generating {Diverse} and {Meaningful} {Captions}},
+	isbn = {978-3-030-01418-6},
+	doi = {10.1007/978-3-030-01418-6_18},
+	language = {en},
+	booktitle = {Artificial {Neural} {Networks} and {Machine} {Learning} – {ICANN} 2018},
 	publisher = {Springer International Publishing},
 	author = {Lindh, Annika and Ross, Robert J. and Mahalunkar, Abhijit and Salton, Giancarlo and Kelleher, John D.},
-	year = {2018}
+	editor = {Kůrková, Věra and Manolopoulos, Yannis and Hammer, Barbara and Iliadis, Lazaros and Maglogiannis, Ilias},
+	year = {2018},
+	keywords = {Computer Vision, Contrastive Learning, Deep Learning, Diversity, Image Captioning, Image Retrieval, Machine Learning, MS COCO, Multimodal Training, Natural Language Generation, Natural Language Processing, Neural Networks, Specificity},
+	pages = {176--187}
 	}
 
 The code in this repository builds on the code from the following two repositories:
