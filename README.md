@@ -55,7 +55,7 @@ $ python scripts/prepro_feats.py --input_json data/dataset_coco.json --output_di
 See https://github.com/ruotianluo/ImageCaptioning.pytorch for more info on the scripts if needed.  
 
 ## Setup for the Image Retrieval side  
-You will need to train a SentEval model according to the instructions [here](https://github.com/facebookresearch/SentEval) using their pretrained InferSent embedder.  
+You will need to train a SentEval model according to the instructions [here](https://github.com/facebookresearch/SentEval) using their pretrained InferSent embedder. IMPORTANT: Because of a change in SentEval, you will need to pull commit c7c7b3a instead of the latest version.  
 You also need the GloVe embeddings you used for this when you’re training the full combined model.  
 
 ## Setup for the combined model  
