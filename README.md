@@ -1,6 +1,6 @@
 # Diverse and Specific Image Captioning
 
-This repository contains the code for __*Generating Diverse and Meaningful Captions: Unsupervised Specificity Optimization for Image Captioning (Lindh et al., 2018)*__ to appear in *Artificial Neural Networks and Machine Learning - ICANN 2018*.
+This repository contains the code for __*Generating Diverse and Meaningful Captions: Unsupervised Specificity Optimization for Image Captioning (Lindh et al., 2018)*__ in *Artificial Neural Networks and Machine Learning - ICANN 2018*.
 
 A detailed description of the work, including test results, can be found in our paper: [[publisher version]](https://doi.org/10.1007/978-3-030-01418-6_18) [[author version]](https://arrow.dit.ie/airccon/13/)
 
